@@ -1,0 +1,25 @@
+img{
+    height:630px ;
+    width:1335px ;
+    position: relative;
+    background-size: cover;
+}
+.back{
+    width:500px ;
+    height:180x ;
+    position: absolute;
+    background-color: rgb(128,128,128,0.514); 
+    z-index: 2;
+   top: 40px;
+   left: 380px;
+   bottom: 40px;
+   border-radius: 3px;
+}
+h2,p{
+    font-size: 33px;
+    color:rgb(119, 11, 11);
+    text-align: center;
+}
+h2{
+    text-transform: capitalize;
+}
